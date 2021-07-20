@@ -1,0 +1,6 @@
+Hello your email address is |
+Your name is |
+You live on |
+Your postal code is |
+
+This is the end of the test Message
